@@ -1,3 +1,9 @@
+# Watch the video : https://www.youtube.com/watch?v=IHLwjiBmf-g
+https://youtu.be/IHLwjiBmf-g?si=OcfZehGpNDvQ6ecd&t=39
+
+
+
+
 # SimSwap: An Efficient Framework For High Fidelity Face Swapping
 ## Proceedings of the 28th ACM International Conference on Multimedia
 **The official repository with Pytorch**
